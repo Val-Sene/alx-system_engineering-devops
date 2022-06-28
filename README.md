@@ -1,4 +1,4 @@
-readme file for devops repo
+readme file for devops repository
 0 My name is betty
 1 Who am i 
 2 Groups
